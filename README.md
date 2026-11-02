@@ -9,3 +9,7 @@ Business intelligence reports built in **Microsoft Power BI**.
 
 ## How to view
 Download a `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+
+---
+
+👩‍💻 **Author:** [Shun Lei Phyu](https://github.com/ShunLeiPhyu)
